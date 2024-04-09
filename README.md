@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola a todos! Soy un joven entusiasta con una sed insaciable de aprendizaje. Mi pasión por adquirir conocimientos me impulsa a enfrentar desafíos constantes. Disfruto compartiendo las lecciones que he aprendido en mi camino, ya que creo firmemente en la importancia de la colaboración y la difusión del conocimiento. Siempre estoy abierto a nuevos retos, ya que considero que son oportunidades para crecer y superarme. ¡Vamos juntos en este viaje de aprendizaje y descubrimiento!"
+¡Hola a todos! Soy un joven entusiasta con una sed insaciable de aprendizaje. Mi pasión por adquirir conocimientos me impulsa a enfrentar desafíos constantes. Disfruto compartiendo las lecciones que he aprendido en mi camino,Por que creo firmemente en la importancia de la colaboración y la difusión del conocimiento. Siempre estoy abierto a nuevos retos y considero que son oportunidades para crecer y superarme. ¡Vamos juntos en este viaje de aprendizaje y descubrimiento!"
 
 
 # 💻 Tech Stack:
