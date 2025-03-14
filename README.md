@@ -1,5 +1,5 @@
 # 💫 Sobre Mí:
-¡Hola a todos! soy **José Saire** 👋, estudiante de **Ingeniería de Sistemas** 🎓, y me apasiona la tecnología 💻, especialmente el desarrollo de software 🖥️. ¡Considero que es una de las áreas con mayores retos! 💪, lo que me motiva a dar lo mejor de mí 🚀. ¡Me gusta enfrentar grandes desafíos! 🏆, ya que es ahí donde puedo sacar mi máximo potencial 🌟. Además, soy proactivo y siempre estoy dispuesto a recibir retroalimentación para mejorar 🔄.
+¡Hola a todos ! soy **José Saire** 👋, estudiante de **Ingeniería de Sistemas** 🎓, y me apasiona la tecnología 💻, especialmente el desarrollo de software 🖥️. ¡Considero que es una de las áreas con mayores retos! 💪, lo que me motiva a dar lo mejor de mí 🚀. ¡Me gusta enfrentar grandes desafíos! 🏆, ya que es ahí donde puedo sacar mi máximo potencial 🌟. También me interesa el **backend** 🔧, donde puedo trabajar en la parte lógica y funcional de las aplicaciones. Además,siempre estoy dispuesto a recibir retroalimentación para mejorar 🔄.
 🌟
 
 ---
