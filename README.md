@@ -1,5 +1,6 @@
 # 💫 Sobre Mí:
-¡Hola a todos! 🚀 Soy un entusiasta del aprendizaje con una sed insaciable de conocimiento. Me apasiona enfrentar desafíos constantes y compartir lo que aprendo en el camino. Creo firmemente en la colaboración y la difusión del conocimiento, ya que juntos podemos crecer y superarnos. Siempre estoy abierto a nuevos retos y oportunidades de aprendizaje. ¡Acompáñame en este viaje de exploración y desarrollo! 🌟
+¡Hola a todos! soy **José Saire** 👋, estudiante de **Ingeniería de Sistemas** 🎓, y me apasiona la tecnología 💻, especialmente el desarrollo de software 🖥️. ¡Considero que es una de las áreas con mayores retos! 💪, lo que me motiva a dar lo mejor de mí 🚀. ¡Me gusta enfrentar grandes desafíos! 🏆, ya que es ahí donde puedo sacar mi máximo potencial 🌟. Además, soy proactivo y siempre estoy dispuesto a recibir retroalimentación para mejorar 🔄.
+🌟
 
 ---
 
