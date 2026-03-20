@@ -46,6 +46,7 @@ Me encanta aprender nuevas tecnologías y construir proyectos con impacto real.
 -   **GameHub** – Aplicación de juegos en Java. [Repo](https://github.com/msxd26/GameHub)
 -   **Project-TiendaApp** – Proyecto de gestión de tienda. [Repo](https://github.com/msxd26/Project-TiendaApp)
 -   **spring-jwt** – Implementación de autenticación JWT con Spring Security. [Repo](https://github.com/msxd26/spring-jwt)
+-   **spring-travel** – Aplicacion de vuelos implementando seguridad, consumo de api externa,redis, mongodb. [Repo](https://github.com/msxd26/travel)
 
 ---
 
