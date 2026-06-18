@@ -1,102 +1,62 @@
-# 👋 ¡Hola, soy José Saire!
+# 👋 Hola, soy José Saire
 
-Soy un apasionado del desarrollo backend con experiencia en **Java**, **Spring Boot** y desarrollo de aplicaciones web.
-Me encanta aprender nuevas tecnologías y construir proyectos con impacto real.
+🚀 **Backend Developer | Java & Spring Boot | Backend Architecture**
+
+Desarrollador de software con +2 años de experiencia construyendo **sistemas backend** con Java, gestionando datos con **SQL, NoSQL y en memoria**, e implementando **arquitecturas orientadas a eventos y seguridad de aplicaciones**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Lo que hago
 
-### 💻 Lenguajes
+| 📌 **Áreas de Enfoque** |
+|------------------|
+| ⚙️ Desarrollo Backend & Servicios Core (Java / Spring Boot) |
+| 🔒 Seguridad y Autenticación (Spring Security / JWT) |
+| 📨 Sistemas Orientados a Eventos (Apache Kafka) |
+| 🗄️ Gestión de Datos (SQL, NoSQL, Redis) |
+| 🖥️ Integración de Interfaces (Angular) |
+| 🐳 Contenerización & Despliegues Cloud (Docker / Azure) |
 
+---
+
+## 🛠 Tech Stack
+
+### Backend, Arquitectura & Seguridad
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🚀 Frameworks y Librerías
-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+### Data & Storage
+![PostgreSQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/In--Memory-DC382D?style=flat&logo=redis&logoColor=white)
+
+### Web & Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### 🛢️ Bases de Datos
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-### 🧰 Herramientas y Entornos
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white)
+### Dev & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🔗 Conecta Conmigo
 
--   **Challenge-Literalura Alura Latam** – Challenge para gestión de libros. [Repo](https://github.com/msxd26/Challenge-Literalura)
--   **Conversor de Monedas** – Desafío de Alura Latam para conversión de divisas. [Repo](https://github.com/msxd26/Conversor-de-monedes-Desafio-Alura-Latam)
--   **Challenge Foro Hub** – API REST para foro con Spring Boot. [Repo](https://github.com/msxd26/Challenge-Foro-Hub-)
--   **GameHub** – Aplicación de juegos en Java. [Repo](https://github.com/msxd26/GameHub)
--   **Project-TiendaApp** – Proyecto de gestión de tienda. [Repo](https://github.com/msxd26/Project-TiendaApp)
--   **spring-jwt** – Implementación de autenticación JWT con Spring Security. [Repo](https://github.com/msxd26/spring-jwt)
--   **spring-travel** – Aplicacion de vuelos implementando seguridad, consumo de api externa,redis, mongodb. [Repo](https://github.com/msxd26/travel)
+<p align="left">
+  <a href="https://linkedin.com/in/jose-saire/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384030.png" alt="LinkedIn" height="32"></a>
+  <a href="https://github.com/msxd26"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="32"></a>
+  <a href="mailto:sairelp26@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="32"></a>
+</p>
 
----
-
-## 📚 Educación & Certificaciones
-
-### 🎓 Udemy
-
--   **Máster Completo Java de cero a experto** - Andrés Guzmán (+163hrs)
--   **Spring Framework & Spring Boot desde cero a experto** - Andrés Guzmán
--   **Docker - Guía práctica de uso para desarrolladores** - Fernando Herrera
--   **SQL de cero: Tu guía práctica con PostgreSQL** - Fernando Herrera
--   **Curso de Microsoft Azure Fundamentals AZ-900** - Joan Amengual
-
-### 🎓 Alura Latam
-
--   **Challenge Literalura** (2026)
--   **Conversor de Monedas** (2026)
--   **Challenge Foro Hub** (2026)
+📈 Enfocado en **arquitecturas escalables, código limpio y eficiencia operativa**.
 
 ---
 
-## 💼 Sobre mí
-
-> "La mejor manera de predecir el futuro es crearlo."
-
-Soy desarrollador backend con experiencia en:
-
--   ✔️ APIs y lógica backend (Spring Boot, Java)
--   ✔️ Bases de datos relacionales (MySQL, PostgreSQL)
--   ✔️ Control de versiones y colaboración (Git, GitHub)
--   ✔️ Contenedores y DevOps (Docker)
--   ✔️ Cloud (Microsoft Azure)
-
-🎯 **Objetivo profesional:** Seguir creciendo como desarrollador backend con Java y contribuir a proyectos que impulsen la transformación digital.
-
----
-
-## 📬 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-saire/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sairelp26@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/msxd26)
-
----
-
-## 📈 GitHub Stats
-
-![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msxd26&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msxd26&layout=compact&theme=radical)
-
----
-
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=msxd26&show_icons=true&theme=radical&hide_border=true" alt="José's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msxd26&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
+</div>
