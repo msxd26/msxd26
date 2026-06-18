@@ -14,7 +14,7 @@ Desarrollador de software con +2 años de experiencia construyendo **sistemas ba
 | 🔒 Seguridad y Autenticación (Spring Security / JWT) |
 | 📨 Sistemas Orientados a Eventos (Apache Kafka) |
 | 🗄️ Gestión de Datos (SQL, NoSQL, Redis) |
-| 🖥️ Integración de Interfaces (Angular) |
+| 🖥️ Frontend (Angular) |
 | 🐳 Contenerización & Despliegues Cloud (Docker / Azure) |
 
 ---
@@ -33,7 +33,7 @@ Desarrollador de software con +2 años de experiencia construyendo **sistemas ba
 ![MongoDB](https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/In--Memory-DC382D?style=flat&logo=redis&logoColor=white)
 
-### Web & Frontend
+### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
