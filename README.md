@@ -1,6 +1,6 @@
 # 👋 Hola, soy José Saire
 
-🚀 **Backend Developer | Java & Spring Boot | Backend Architecture**
+🚀 **Backend Developer | Java & Spring Boot**
 
 Desarrollador de software con +2 años de experiencia construyendo **sistemas backend** con Java, gestionando datos con **SQL, NoSQL y en memoria**, e implementando **arquitecturas orientadas a eventos y seguridad de aplicaciones**.
 
